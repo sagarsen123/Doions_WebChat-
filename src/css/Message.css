@@ -1,0 +1,17 @@
+.right{
+    height : 1rem;
+    background-color: #D9D9D9;
+         border-radius: 42px 8px 32px 42px;
+         padding: 1.5rem;
+         float: right;
+      clear:both;
+}
+
+.left{
+    height : 1rem;
+    background-color: #D9D9D9;
+    border-radius: 42px 8px 32px 42px;
+    padding: 1.5rem;
+    float: left;
+    clear:both;
+}
